@@ -1,5 +1,5 @@
 Tasnia Alam,
-PhD Candidate, School of Communication, 
+PhD Candidate, School of Communication
 University of Miami
 
 Research Interests:
