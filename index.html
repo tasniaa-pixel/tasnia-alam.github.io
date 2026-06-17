@@ -73,11 +73,15 @@ a {
 
 }
 
-    .info-sections {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+  .info-sections {
+    display: flex !important;
     gap: 25px;
 }
+
+.interests-box,
+.education-box {
+    flex: 1;
+}  
  .interests-box h2,
 .education-box h2 {
     font-size: 24px; !important;
